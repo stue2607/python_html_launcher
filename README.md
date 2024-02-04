@@ -30,4 +30,4 @@ This app has the following features and functionality:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](python_html_launcher\LICENCE.txt) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/stue2607/python_html_launcher/blob/main/LICENCE.txt) file for more details.
