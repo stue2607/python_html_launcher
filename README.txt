@@ -11,8 +11,8 @@ To use this app, you need to have Python 3 installed on your system. You can dow
 To run the app, simply clone this repository and execute the `main.py` file:
 
 ```bash
-git clone https://github.com/your-username/python-coding-quiz-app.git
-cd python-coding-quiz-app
+https://github.com/stue2607/python_html_launcher.git
+cd python_html_launcher
 python main.py
 ```
 
