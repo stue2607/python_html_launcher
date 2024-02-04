@@ -2,7 +2,7 @@
 
 This is a simple quiz app that tests your knowledge of Python. It uses the `webbrowser` module to open an HTML page that contains three multiple-choice questions. After you answer all the questions, you will see your score and the correct answers. This app is a fun and easy way to learn or review some basic concepts of Python.
 
-[![python-quiz-page.png](https://i.postimg.cc/SK6jtHnv/python-quiz-page.png)](https://postimg.cc/t1gXsSt3)
+![python-quiz-page.png](https://i.postimg.cc/SK6jtHnv/python-quiz-page.png)
 
 ## Installation and Usage
 
